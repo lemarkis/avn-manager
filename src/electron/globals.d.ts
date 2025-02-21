@@ -1,0 +1,1 @@
+declare const electronFrame: typeof import('./apis/electron-frame').electronFrame;
